@@ -1,0 +1,2 @@
+python-dateutil==2.4.2
+PyVimeo==0.3.0
